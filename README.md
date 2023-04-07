@@ -1,6 +1,6 @@
-# git-wiki
+# БОБРЫ
 
-Git-wiki is a **modular and full featured wiki** powered by Git, [GitHub](https://pages.github.com/)/[Gitlab](https://about.gitlab.com/product/pages/) Pages and pull requests!
+БОБЕРРРР is a **modular and full featured wiki** powered by Git, [GitHub](https://pages.github.com/)/[Gitlab](https://about.gitlab.com/product/pages/) Pages and pull requests!
 
 The git-wiki project is composed by 3 different repository:
 

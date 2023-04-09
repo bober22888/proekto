@@ -4,11 +4,11 @@
 
 The git-wiki project is composed by 3 different repository:
 
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
+- [git-wii-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
 
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
+- [git-wiki-keleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
 
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
+- [git-wii](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
 
 ## Getting started
 
@@ -16,7 +16,8 @@ The easier and faster way to use git-wiki is the "skeleton" method.
 
 **You don't need to install anything locally!**
 
-1. Simply fork/clone [skeleton repo](https://github.com/Drassil/git-wiki-skeleton) or click on the "Use this template" button to create your copy of the skeleton project.
+1. Simply fork/clone [skeleton
+2. repo](https://github.com/Drassil/git-wiki-skeleton) or click on the "Use this template" button to create your copy of the skeleton project.
 
 2. Edit _config.yml and other pages as you need and then deploy it on GitHub/Gitlab Pages.
 
